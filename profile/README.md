@@ -50,14 +50,6 @@ Zarówno wewnątrz zespołu jak i w komunikacji z klientami jesteśmy otwarci, k
 
 Jako, że produkty i usługi kierujemy do niekoniecznie technicznych osób, zawsze staramy się znaleźć drogę do ich edukowania. Zarówno w bezpośredniej komunikacji jak i na social mediach umieszczamy wyjaśnienia procesów i specyfikę branży. Przybliżamy technologię przeciętnemu Kowalskiemu - edukując, ale przede wszystkim budując proste i klarowne usługi.
 
-<h3 align="left">
-🔥 Co Robimy
-</h3>
-
-Specjalizujemy się w:
-- **Rozwoju Web**: Projektowaniu nowoczesnych, responsywnych i dostępnych aplikacji internetowych.
-- **Aplikacje mobilne**: Tworzymy responsywne, nowoczesne aplikacje mobilne na Androida oraz iOS.
-
 <!-- <h3 align="left">
 💻 Technologie, których Używamy
 </h3>
