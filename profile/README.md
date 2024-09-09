@@ -14,6 +14,8 @@
     <br />
     <br />
     <a href="https://digitalbuzz.pro/">Nasza Strona</a>
+        ·
+    <a href="https://www.facebook.com/digitalbuzzpl/">Facebook</a>
   </p>
 </div>
 
